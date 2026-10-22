@@ -1,7 +1,0 @@
-url: https://github.com/lin114514-desng/dsh-context-tone
-name: lin114514-desng/dsh-context-tone
-category: ui
-description:
-  en: Colors the DeepSeek Harness context meter ring and percentage by occupancy tier and appends a tier emoji, with five thresholds, five colors, and six emoji editable in the plugin settings page.
-  zh: 按上下文占用档位给官方上下文胶囊改色并在百分比右侧显示 emoji，五个分界值、五档颜色、六档 emoji 可在插件配置页修改。
-tarball: https://github.com/lin114514-desng/dsh-context-tone/releases/download/v0.2.1/dsh-context-tone-0.2.1.tgz
